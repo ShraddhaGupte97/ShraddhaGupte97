@@ -1,17 +1,18 @@
 ![Banner Image](https://miro.medium.com/v2/resize:fit:9100\/0*3eZEKrg2y7Pt6iZI.jpg)
 
 ### Hi there! I am Shraddha
-🤖 Machine learning enthusiast
 
-🎓 Graduate student at Carnegie Mellon University
+🤖 Machine Learning & Data Science Professional
 
-💼 Worked as a Technology Consultant for over 3 years at Deloitte
+🎓 Master’s in Data & Machine Learning from Carnegie Mellon University
 
-🏢 Built machine learning solutions for clients in the insurance, banking, and automotive industries
+📊  Led analytics for Amazon’s Shopping Experience team
 
-🔍 Dedicated to unraveling complex patterns and transforming them into valuable insights
+🧠 Applied data science and GenAI to power smarter products, faster decisions, and better user experiences.
 
-💡 Driven by innovation and growth
+🛠️ Passionate about solving ambiguous problems using ML, LLMs, and data insights
+
+💡 Explorer at heart, driven by innovation, collaboration, and learning opportunities
 
 ##  Professional Skills
 ### Languages
@@ -25,7 +26,7 @@
   <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/images/tpot-logo.jpg" alt="TPOT" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="80"/>&nbsp;&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbeeN-2NRN6cQ2kSWyDgopb7NwDBdKV6qVUnEQf5Uc&s" alt="NLTK" width="80" style="display:inline-block;"/> &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spaCy" width="80" style="display:inline-block;"/>&nbsp;&nbsp;&nbsp;&nbsp;
